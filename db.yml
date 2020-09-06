@@ -1,4 +1,8 @@
 ---
+- name: 박경선
+  blog: https://gngsn.tistory.com/
+  description: 배운만큼 남주자!
+  github: https://github.com/gngsn
 - name: 강교일
   blog: https://kdevkr.github.io/
   description: 초보 개발 이야기
